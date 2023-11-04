@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Portal/Scenes/TitleScene.unity
+    guid: 04cd47e91916a470e836231dd1e2b160
+  - enabled: 1
+    path: Assets/Portal/Scenes/Atlanta.unity
+    guid: 198a24e06ba85432b9a0d4e6882d276a
+  - enabled: 1
+    path: Assets/Portal/Scenes/Detroit.unity
+    guid: cbff1b326c2a64b9d836d935b6d4cb3c
+  - enabled: 1
+    path: Assets/Portal/Scenes/Dubai.unity
+    guid: 9ca1086f975fa460eb509bb23bfef025
+  - enabled: 1
+    path: Assets/Portal/Scenes/Greece.unity
+    guid: b6feece5b71ba4a5fa92d5b894de0645
+  - enabled: 1
+    path: Assets/Portal/Scenes/Paris.unity
+    guid: 42574bad4fe704d5b862f77387be11bd
+  - enabled: 1
+    path: Assets/Portal/Scenes/Portugal.unity
+    guid: 49189eea1e4a945858cc588f6da21eaf
+  - enabled: 1
+    path: Assets/Portal/Scenes/Shanghai.unity
+    guid: f5f411bf88d22434090957628c4e265b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e9d4f2fd175b34145b07f1631b297301, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7598bacc327524b509706818c8c62d61, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6e29ab91d70cf438e93c3ac13272ba5a, type: 2}

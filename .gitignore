@@ -25,9 +25,11 @@
 
 /[Aa]ssets/Portal/Pictures/*
 /[Aa]ssets/Portal/Video/*
-/[Aa]ssets/TextMesh Pro/*
+/[Aa]ssets/TextMesh\ Pro/*
 /[Aa]ssets/XR/*
 /[Aa]ssets/XRI/*
+
+
 
 
 # Visual Studio cache directory
